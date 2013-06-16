@@ -1,0 +1,2 @@
+GET     /items/:id                  org.corespring.versioning.example.controllers.Items.get(id:VersionedId[ObjectId])
+
